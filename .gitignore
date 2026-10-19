@@ -1,0 +1,13 @@
+.env
+*.exe
+__pycache__/
+.tools/
+data.json*
+.initial-password
+
+*.db
+*.db-*
+.sqlite-initial-password
+*.log
+
+local-only/

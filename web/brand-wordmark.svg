@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="336" height="96" viewBox="0 0 336 96" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">社区联合黑名单字标</title>
+  <desc id="desc">蓝金连接环图标与社区联合黑名单中文名称。</desc>
+  <g transform="translate(8 16)">
+    <rect width="64" height="64" rx="15" fill="#203d68"/>
+    <path d="M31 17H22L15 24V40L22 47H31V39H25L23 37V27L25 25H31V17Z" fill="#fff"/>
+    <path d="M33 17H42L49 24V40L42 47H33V39H39L41 37V27L39 25H33V17Z" fill="#f4c74f"/>
+    <path d="M28 28H36V33H28V28ZM28 36H36V41H28V36Z" fill="#f4c74f"/>
+  </g>
+  <text x="91" y="47" fill="#203d68" font-family="DengXian,Microsoft YaHei,PingFang SC,sans-serif" font-size="29" font-weight="700">社区联合黑名单</text>
+  <text x="92" y="69" fill="#677287" font-family="DengXian,Microsoft YaHei,PingFang SC,sans-serif" font-size="13" letter-spacing="1">社区联合 · 证据核查 · 公平对局</text>
+</svg>

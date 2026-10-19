@@ -1,0 +1,150 @@
+[
+  {
+    "url": "https://www.bilibili.com/video/BV1La411N7Nd/?spm_id_from=333.337&p=2&t=90&vd_source=tracking",
+    "canonical": "https://www.bilibili.com/video/BV1La411N7Nd/?p=2&t=90"
+  },
+  {
+    "url": "https://m.bilibili.com/video/av12345",
+    "canonical": "https://www.bilibili.com/video/av12345/"
+  },
+  {
+    "url": "https://youtu.be/dQw4w9WgXcQ?si=tracking&t=1m23s",
+    "canonical": "https://www.youtube.com/watch?t=1m23s&v=dQw4w9WgXcQ"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=shared",
+    "canonical": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "url": "https://m.youtube.com/shorts/dQw4w9WgXcQ",
+    "canonical": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "url": "https://www.youtube.com/live/dQw4w9WgXcQ",
+    "canonical": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "url": "https://WWW.BILIBILI.COM/video/BV1La411N7Nd/",
+    "canonical": "https://www.bilibili.com/video/BV1La411N7Nd/"
+  },
+  {
+    "url": "https://evil.com/virus.exe",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.bilibili.com.evil.com/video/BV1La411N7Nd/",
+    "canonical": ""
+  },
+  {
+    "url": "https://evil.com/www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.youtube.com@evil.com/watch?v=dQw4w9WgXcQ",
+    "canonical": ""
+  },
+  {
+    "url": "https://evil@www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.youtube.com:443/watch?v=dQw4w9WgXcQ",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.youtube.com:444/watch?v=dQw4w9WgXcQ",
+    "canonical": ""
+  },
+  {
+    "url": "http://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "canonical": ""
+  },
+  {
+    "url": "javascript:alert(1)",
+    "canonical": ""
+  },
+  {
+    "url": "data:text/html,script",
+    "canonical": ""
+  },
+  {
+    "url": "//www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "canonical": ""
+  },
+  {
+    "url": "www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "canonical": ""
+  },
+  {
+    "url": "https://b23.tv/abcd",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.youtube.com/redirect?q=https://evil.com",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.bilibili.com/download/file.exe",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&redirect=https://evil.com",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&foo=https%3A%2F%2Fevil.com",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&v=aaaaaaaaaaa",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=short",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.youtube.com./watch?v=dQw4w9WgXcQ",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.bilibili.com/video/%42V1La411N7Nd/",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.youtube.com/shorts/dQw4w9WgXcQ/extra",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=123",
+    "canonical": ""
+  },
+  {
+    "url": "https://youtu.be/dQw4w9WgXcQ/extra",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV1La411N7Nd/extra",
+    "canonical": ""
+  },
+  {
+    "url": "https://yоutube.com/watch?v=dQw4w9WgXcQ",
+    "canonical": ""
+  },
+  {
+    "url": "https:www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.youtube.com/redirect/../watch?v=dQw4w9WgXcQ",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV1La411N7Nd/?foo=%ZZ",
+    "canonical": ""
+  },
+  {
+    "url": "https://www.bilibili.com/video/BV1La411N7Nd/?foo=a;b",
+    "canonical": ""
+  }
+]

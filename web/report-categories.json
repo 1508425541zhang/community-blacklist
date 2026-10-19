@@ -1,0 +1,23 @@
+[
+  {"id":"cheating","label":"作弊行为","items":[
+    {"id":"cheating","label":"作弊（类型待核实）"},
+    {"id":"wallhack","label":"透视"},
+    {"id":"aimbot","label":"自瞄"},
+    {"id":"no-recoil","label":"无后坐力"},
+    {"id":"speedhack","label":"异常加速"},
+    {"id":"cheat-script","label":"作弊脚本 / 修改器"}
+  ]},
+  {"id":"gameplay","label":"对局违规","items":[
+    {"id":"boosting","label":"违规刷分"},
+    {"id":"exploit","label":"恶意利用漏洞"},
+    {"id":"teamkill","label":"恶意友伤"},
+    {"id":"sabotage","label":"阻挡 / 破坏对局"}
+  ]},
+  {"id":"conduct","label":"言行违规","items":[
+    {"id":"misconduct","label":"恶意言行"},
+    {"id":"insult","label":"侮辱 / 辱骂"},
+    {"id":"discrimination","label":"歧视 / 仇恨言论"},
+    {"id":"harassment","label":"持续骚扰 / 威胁"}
+  ]},
+  {"id":"other","label":"其他","items":[{"id":"other","label":"其他违规"}]}
+]
